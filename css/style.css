@@ -1,0 +1,47 @@
+body{
+  background-color: #5f3843;
+  background-image: url("../img/background.png");
+}
+nav {
+  background: url("../img/header.png")
+}
+nav .brand-logo{
+  z-index: 1000;
+}
+
+.Principal{
+  min-height: 100vh;
+  height: auto;
+  background: #ffffff;
+}
+
+.page-footer {
+  background-color: #492231;
+}
+
+.page-footer .footer-copyright{
+  background-color:#321621;
+}
+
+.letrero{
+  text-align: center;
+  padding-top: 20px;
+}
+
+.opcionesMenu{
+  text-align: center;
+}
+
+.opcionesMenu label{
+  font-size: 1.6rem;
+  color: #492231;
+}
+
+.ubicacion img{
+  width: 100%;
+}
+
+.parallax-container{
+  margin-top: -20px;
+  height: 309px;
+}
